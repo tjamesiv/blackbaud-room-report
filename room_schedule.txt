@@ -1,0 +1,339 @@
+Rm 3rd Floor Auditorium
+
+Block ArtsTF1:  (6)
+Block PE AM F: PE/Fitness ( Mayers)
+Block LB1: Prepare: Healthy Relationships ( Chasen)
+
+Rm 46 Gymnasium
+
+Block 2: Film & Media Major ( Todd)
+Block ArtsMR12: Independent Study - Advanced Topics in Film and Media ( Todd)
+Block ArtsTF12: Introduction to Photography ( Todd)
+Block ArtsTF1: Photography II: Light, Lens, Surface, and Screen ( Todd)
+
+Rm Art Studio-2D Digital 118
+
+Block LB2: Creativity and the Climate Crisis ( Salazar)
+Block ArtsMR1: Foundations in Drawing ( Salazar)
+Block LB1: Independent Projects 10 ( Salazar)
+Block ArtsTF12: Introduction to Design ( Victor)
+Block ArtsMR12: Painting as Language ( Salazar)
+Block Portfolio: Workshop in Professional Practice ( Victor)
+
+Rm Art Studio-Dry Sculpture 116
+
+Block ArtsMR12: Explorations in Sculpture ( Victor)
+Block 4: Visual Art Major ( Victor)
+
+Rm Art Studio-Wet Sculpture 115
+
+Block ArtsMR12: Culinary Arts ( Evans)
+
+Rm Cafeteria
+
+Block ArtsTF1: Introduction to Engineering ( Vento)
+
+Rm Cooper U.
+
+Block ArtsMR1: Dance I: Dance Fusion ( Pommiss)
+Block ArtsTF12: Dance II: From Studio to Stage ( Pommiss)
+Block ArtsMR12: Dance III: ChoreoLab ( Pommiss)
+Block ArtsTF1: Dance IV: Dance Repertory Project ( Pommiss)
+Block PE AM F: PE/Fitness ( Hall)
+Block LB2: Recharging our Batteries: Creating a Personal Self-Care Routine ( Pommiss)
+
+Rm Dance Studio
+
+Block ArtsTF1: Experimental Research Methods ( Bevilacqua)
+Block ArtsMR12: Independent Study: Introduction to Ancient Greek ( Johnson)
+
+Rm Dean's Office
+
+Block 4: Oceanography ( Casey)
+
+Rm Design Lab
+
+Block PE AM F: PE/Fitness ( Quinn)
+
+Rm Fitness Rm.
+
+Block ArtsMR1: Computer Aided Design ( Wong)
+Block ArtsTF1: Digital Tools & Citizenship I ( Wong)
+Block LB1: Independent Projects 10 ( Wong)
+Block 1: Physics ( Zia)
+Block ArtsTF12: Robotics ( Wong)
+
+Rm LL17
+
+Block ArtsTF1: Classic & Contemporary Scene Study ( Pacht)
+Block ArtsTF12: Drama I: Collaborative Theater Arts ( Pacht)
+Block LB1: Prepare: Healthy Relationships ( Chasen)
+Block 4: Theater Studies Major ( Pacht)
+
+Rm Multipurpose Room
+
+Block ArtsTF12: Digital Tools & Citizenship I ( Persaud)
+Block 4: Technology Major ( Ali Herndon)
+
+Rm Multipurpose Room (Robotics) LL1
+
+Block ArtsTF12: Advanced Chamber Strings ( Dockeray)
+Block ArtsMR1: Beginning Strings ( Dockeray)
+Block ArtsMR12: Beginning Vocals ( Leonard)
+Block ArtsTF1: Beginning Winds and Percussion ( Kadajski)
+Block ArtsTF1: Concert Strings ( Dockeray)
+Block ArtsTF12: Drama II: Voice and Text ( Leonard)
+Block ArtsMR1: GraceNotes (Vocal Ensemble) ( Leonard)
+Block LB1: Independent Projects 10 ( Kadajski)
+Block 3: Jazz and Contemporary Music Major ( Kadajski)
+Block ArtsTF12: Jazz Combo ( Ancowitz)
+Block ArtsMR1: Jazz Ensemble ( Kadajski)
+Block ArtsTF1: Jazz Lab I ( Ancowitz)
+Block ArtsMR12: Jazz Lab II ( Kadajski)
+Block PE AM W: Jazz Theory & Harmony I ( Kadajski)
+Block 4: Vocal Music Major ( Leonard)
+
+Rm Music Room
+
+Block 5: Algebra II & Trigonometry (Intensive) ( Newman)
+Block 3: Data Science I: Statistics & Probability ( Kurian)
+Block LB2: Independent Projects 10 ( Chan)
+Block 1: Precalculus ( Pan)
+Block 4: Precalculus (Intensive) ( Chan)
+
+Rm Room 201
+
+Block 3: Calculus ( Irwin)
+Block 1: Calculus (Intensive) ( Tashman)
+Block LB1: Independent Projects 10 ( Neer)
+Block 2: Precalculus ( Tashman)
+
+Rm Room 202
+
+Block 4: Algebra I & Geometry ( Ros)
+Block 2: Algebra II & Trigonometry ( Ros)
+Block 1: Calculus II & Multivariable Calculus ( Ros)
+
+Rm Room 203
+
+Block 3: Biology ( Casey)
+Block 2: Biology (Advanced Topics) ( Dilley)
+Block 1: Chemistry ( Scott)
+Block LB1: Oysters and Estuaries: The Billion Oysters Project ( Dilley)
+
+Rm Room 208
+
+Block 2: Physics (Advanced Topics) ( Mestelle)
+Block 1: Physics (Intensive) ( Wong)
+
+Rm Room 210
+
+Block 2: Chemistry ( Scott)
+Block 4: Chemistry (Advanced Topics) ( Brenner)
+Block 1: Chemistry (Intensive) ( Brenner)
+Block LB1: Science & the Public Sphere: Scientific Literacy and Truth-telling ( Brenner)
+
+Rm Room 215
+
+Block 1: Biology ( Casey)
+Block 2: Biology (Intensive) ( Brenner)
+Block LB2: Urban Gardening ( Casey)
+
+Rm Room 217
+
+Block ArtsTF12: Brain Power: Investigating Neuroscience ( Bevilacqua)
+Block LB1: Comm'ty & Diversity Gr. 10 ( Smith)
+Block 5: Data Science II (Intensive): Advanced Statistics, Probability & Programming – ( Pan)
+Block LB4: Introduction to Philosophy ( Klebnikov)
+Block LB1: Mental Health & Media ( Warren)
+Block 1: The New Czar in the Kremlin: Putin's Russia ( Klebnikov)
+Block 2: World History ( Klebnikov)
+
+Rm Room 219
+
+Block 3: Latin American & Spanish Literature and Theatre ( Félix)
+Block ArtsMR1: Recording Production ( Ancowitz)
+Block LB2: SciFi & Social Justice: We Are All Made of Stars ( Félix)
+Block 2: Spanish II ( Félix)
+Block LB1: The Census: Who Matters and Who Is Counted? ( Félix)
+
+Rm Room 220
+
+Block LB1: Beyond the Box: unpacking Latino identities ( Cortes-Purice)
+Block ArtsTF1: Digital Tools & Citizenship I ( Tashman)
+Block 1: Spanish I ( Cortes-Purice)
+Block 3: Spanish II ( Cortes-Purice)
+Block 2: Spanish IV ( Cortes-Purice)
+
+Rm Room 221
+
+Block 3: Cinema & Culture in France and the Francophone World ( Nalley)
+Block 1: French I ( Polanski)
+Block 4: French III ( Polanski)
+Block 2: French V ( Bogusz)
+Block LB2: Independent Projects 10 ( Irwin)
+
+Rm Room 222
+
+Block 4: Advanced Mandarin: Language and Culture ( Jan)
+Block LB1: Independent Projects 10 ( Pan)
+Block 2: Mandarin I ( Jan)
+Block 1: Mandarin II ( Jan)
+Block 5: Mandarin III ( Jan)
+Block 3: Mandarin IV ( Jan)
+
+Rm Room 224
+
+Block 1: French II ( Al-Maqtari)
+Block 3: French IV ( Al-Maqtari)
+Block LatA: Latin II ( Sebastian)
+Block LB2: Public Speaking: Sharing Your Values ( Foote)
+Block 4: Spanish IV ( Toledo)
+Block LB3: World Religions ( Kuntz)
+
+Rm Room 225
+
+Block 1: Calculus ( Kurian)
+Block 2: Geometry ( Newman)
+Block 4: Geometry (Intensive) ( Irwin)
+Block LB4: Introduction to Philosophy ( Kurian)
+Block ArtsMR1: Journalism: News Lab for Contemporary Reporting ( Reilly)
+Block LB2: Mental Health in the World: Changing the Way Society Views Mental Health ( Chan)
+Block LB1: Peer Leadership 11 ( Foote)
+Block 3: Spanish V ( Toledo)
+
+Rm Room 227
+
+Block ArtsMR12: Introduction to Ethics ( Hummell)
+Block LB4: Introduction to Philosophy ( Hummell)
+Block LB1: Mass Incarceration ( Goglio)
+Block 1: Spanish III ( Goglio)
+Block ArtsTF1: The Bible ( Hummell)
+Block LB3: World Religions ( Hummell)
+
+Rm Room 228
+
+Block LB1: Comm'ty & Diversity Gr. 9 ( Leonard)
+Block 3: Comparative Politics ( Dillon)
+Block 1: World History ( Dillon)
+
+Rm Room 301
+
+Block LB3: Comm'ty & Diversity Gr. 11 ( Dillon)
+Block 4: Data Science II: Advanced Statistics, Probability & Programming ( Pan)
+Block 1: History of Americas ( Hickerson)
+Block 3: Immigration and Migration Histories in the United States ( Nathan)
+Block ArtsTF12: Latin IV ( Sebastian)
+Block LB2: Sports, Athletes, and Social Justice ( Nathan)
+
+Rm Room 302
+
+Block 4: Algebra II & Trigonometry (Intensive) ( Newman)
+Block LB3: Comm'ty & Diversity Gr. 11 ( Zia)
+Block 2: History of Americas ( Hickerson)
+Block 1: World Literature ( Kuntz)
+
+Rm Room 303
+
+Block LB1: Comm'ty & Diversity Gr. 10 ( Williamson)
+Block 1: Literature of Americas ( Schmidt)
+Block 2: Utopia and Dystopia in Literature ( Schmidt)
+Block 5: World Literature ( Reilly)
+Block LB3: World Religions ( Schmidt)
+
+Rm Room 309
+
+Block 3: Algebra II & Trigonometry ( Rufer)
+Block 5: Calculus ( Irwin)
+Block LB1: Comm'ty & Diversity Gr. 10 ( Andre)
+Block LB3: Comm'ty & Diversity Gr. 11 ( Casey)
+Block 2: Geometry (Intensive) ( Irwin)
+Block 1: Precalculus (Intensive) ( Chan)
+
+Rm Room 310
+
+Block LB1: (In)equity: How Race, Class and Culture Affect the Educational Experiences of Kids ( Carpenter)
+Block LB4: Introduction to Philosophy ( Sebastian)
+Block LatA: Latin I ( Johnson)
+Block LatB: Latin Seminar ( Johnson)
+Block 3: Literature of Americas ( Mazor)
+Block LB2: Mindfulness ( Melnyk)
+Block 1: New York City in Literature ( Melnyk)
+Block ArtsTF1: Pushing the Limits of the Sublime ( Sebastian)
+Block 4: Reinterpreting the Classics: Literature that Writes Back ( Mazor)
+
+Rm Room 311
+
+Block LB2: Comm'ty & Diversity Gr. 10 ( Polanski)
+Block 4: Literature of Americas ( Melnyk)
+Block 1: Moby-Dick: The Great American Novel ( Lee)
+Block 2: World Literature ( Lee)
+
+Rm Room 313
+
+Block LB1: Comm'ty & Diversity Gr. 9 ( Dominguez)
+Block 2: Delusion and Dissolution in Modern World Fiction ( Root)
+Block 1: World Literature ( Root)
+Block LB3: World Religions ( Root)
+
+Rm Room 314
+
+Block 2: Data Science I (Intensive): Statistics & Probability ( Kurian)
+Block 1: Human Evolution and Ecology ( Chaloner)
+Block LB3: World Religions ( Morton)
+
+Rm Room 323
+
+Block 3: Ancient Worlds ( Johnson)
+Block ArtsTF12: Computer Programming I ( Zaretsky)
+Block LB1: Improving Mass Transit in the Modern Age ( Zaretsky)
+Block LB3: Introduction to Philosophy ( Johnson)
+Block LatB: Latin III ( Sebastian)
+Block 1: Literature of Americas ( Mazor)
+Block ArtsMR1: Philosophy of Time and Space ( Johnson)
+Block 2: Senior Seminar in Literature ( Kuntz)
+Block ArtsMR12: Yearbook Journalism: Design and Production ( Zaretsky)
+
+Rm Room 326
+
+Block LB1: Mock Trial ( Grafton)
+Block LB2: Reduce, Reuse, Recycle ( Grafton)
+Block 2: Senior Seminar in History ( Grafton)
+Block 3: World History ( Grafton)
+
+Rm Room 410
+
+Block ArtsTF1: Art of Criticism ( Loverude)
+Block LB3: College Seminar 12 ( Olivares)
+Block 1: Gender & Sexuality in Literature ( Wood)
+Block 2: Literature of Americas ( Wood)
+Block LB1: Peer Leadership 12 ( Wood)
+
+Rm Room 425
+
+Block ArtsTF12: Advanced Television Production ( McDonald)
+Block 4: American Civil War and Reconstruction ( McDonald)
+Block LB2: Civic Fellows ( McDonald)
+Block LB3: College Seminar 12 ( White)
+Block 1: History of Americas ( McDonald)
+Block LB1: Independent Projects 10 ( McDonald)
+
+Rm Room 426
+
+Block LB2: Independent Projects 10 ( Embry)
+Block ArtsMR12: Theater Technology and Design I ( Embry)
+
+Rm Wood Shop
+
+Block LB1: Comm'ty & Diversity Gr. 9 ( Loverude)
+Block 3: Cultural Criticism in the American Essay ( Loverude)
+
+Rm Writing Center Rm.
+
+Block : Lab Studies 10 ( Hickerson)
+Block : Lab Studies 11 ( Chan)
+Block : Lab Studies 12 ( Rufer)
+Block : Lab Studies 9 ( Zia)
+Block LB1: Learning Resources Center ( Farkas-Furniss)
+Block LB1: Mindfulness ( Melnyk)
+
