@@ -2,11 +2,9 @@ import csv
 
 # Read the CSV file and create a dictionary to store room information
 rooms_report = {}
-current_room = None
+current_blocks = []
 blocks = []
 
-need_to_handle_first_class = False
-first_class = None
 
 with open('input.csv', 'r') as csv_file:
     csv_reader = csv.reader(csv_file)
@@ -18,43 +16,40 @@ with open('input.csv', 'r') as csv_file:
 
         # If there's a new room entry
         if row[1]:
-
-            print(f"Found room {row[1]}")
-
             current_room = row[1]
+            print(f"Found room {current_room}")
+            print(current_blocks)
             rooms_report[current_room] = []
-            # blocks = [block.strip() for block in row[4:] if block.strip()]
+            for course, block, teacher in current_blocks:
+                rooms_report[current_room].append(f"Block {block}: {course} ({teacher})")
+                current_blocks = [] # Reset
 
         # If there's a class
-        if row[2] or need_to_handle_first_class:
+        if row[2]:
+            current_class = row[2]
+            print(f"Found class {current_class}")
 
-            if need_to_handle_first_class:
-                need_to_handle_first_class = False
+             # Initialize an empty list to store non-blank entries and their indices
+            non_blank_entries = []
 
-            print(f"Found class {row[2]}")
+            # Flag to track if the first non-blank element has been encountered
+            found_first_non_blank = False
 
-            # Deal with weird formatting for first class
-            if current_room is None:
-                print("a")
-                first_class = row[2]
-                need_to_handle_first_class = True
-                
-            else:
-                column_index = None
-                non_blank_count = 0
-                # Iterate through the row elements and find the second non-blank entry
-                for index, entry in enumerate(row):
-                    if entry.strip() != "":
-                        non_blank_count += 1
-                        if non_blank_count == 2:
-                            column_index = index  # Index of the second non-blank entry
-                            break
+            # Iterate through the array
+            for column_index, item in enumerate(row):
+                if item:  # Check if the item is not blank (truthy)
+                    if found_first_non_blank:
+                        non_blank_entries.append((column_index, item))
+                    else:
+                        found_first_non_blank = True
 
+            for column_index, item in non_blank_entries:
                 if column_index is not None:
-                    course = row[2]
+                    print(column_index)
                     block = blocks[column_index]
-                    teacher = row[column_index]
-                    rooms_report[current_room].append(f"Block {block}: {course} ({teacher})")
+                    teacher = row[column_index].lstrip()
+                    current_blocks.append((current_class, block, teacher))
+                    
 
 # Write room information to a text file
 with open('room_schedule.txt', 'w') as txt_file:
