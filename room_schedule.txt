@@ -308,7 +308,6 @@ Rm Room 303
 
 Block 4: Algebra II & Trigonometry (Intensive) (Newman)
 Block LB3: Comm'ty & Diversity Gr. 11 (Zia)
-Block LB4: Comm'ty & Diversity Gr. 11 (Tashman)
 Block 2: History of Americas (Hickerson)
 Block 1: World Literature (Kuntz)
 Block 5: World Literature (Kuntz)
@@ -353,11 +352,13 @@ Block 4: Reinterpreting the Classics: Literature that Writes Back (Mazor)
 Rm Room 313
 
 Block LB2: Comm'ty & Diversity Gr. 10 (Polanski)
+Block LB4: Comm'ty & Diversity Gr. 11 (Tashman)
 Block 4: Literature of Americas (Melnyk)
 Block 1: Moby-Dick: The Great American Novel (Lee)
 Block 3: Moby-Dick: The Great American Novel (Lee)
 Block 2: World Literature (Lee)
 Block 5: World Literature (Lee)
+Block LB3: World Religions (Lee)
 
 Rm Room 314
 
